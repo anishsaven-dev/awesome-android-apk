@@ -57,6 +57,7 @@ Android APK apps are installable packages used to run applications on Android de
 - Compatible with most Android devices
 
 ---
+
 ## 📊 Comparison Table
 
 | Feature | APK Apps | Play Store |
@@ -66,12 +67,14 @@ Android APK apps are installable packages used to run applications on Android de
 | Updates | Manual | Automatic |
 
 ---
+
 ## ❓ FAQ
 ### What is an APK file?
 An APK (Android Package Kit) is the file format used by the Android operating system for the distribution and installation of mobile apps.
 
 ### Is it safe to install APKs?
 Yes, provided they are downloaded from verified repositories like this one. Always check the digital signature.
+
 ---
 
 ## ⚠️ Disclaimer
